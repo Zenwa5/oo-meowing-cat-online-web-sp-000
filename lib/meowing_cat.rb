@@ -1,5 +1,5 @@
 ## code your solution here.
-class Cat
+class cat
   attr_accessor :name
 
   def meow
