@@ -6,5 +6,3 @@ class cat
     puts "Meowing"
   end
 end
-
-cat.new
